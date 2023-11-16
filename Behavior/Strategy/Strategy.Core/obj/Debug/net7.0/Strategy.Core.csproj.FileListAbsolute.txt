@@ -1,0 +1,12 @@
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\bin\Debug\net7.0\Strategy.Core.deps.json
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\bin\Debug\net7.0\Strategy.Core.dll
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\bin\Debug\net7.0\Strategy.Core.pdb
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\Strategy.Core.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\Strategy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\Strategy.Core.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\Strategy.Core.AssemblyInfo.cs
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\Strategy.Core.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\Strategy.Core.dll
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\refint\Strategy.Core.dll
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\Strategy.Core.pdb
+C:\Users\marco\Documents\NET\patterns\Behavior\Strategy\StrategyPatter\Strategy.Core\obj\Debug\net7.0\ref\Strategy.Core.dll

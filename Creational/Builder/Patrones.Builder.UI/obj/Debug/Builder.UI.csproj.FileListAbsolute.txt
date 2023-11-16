@@ -1,0 +1,14 @@
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.UI.exe.config
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.UI.exe
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.UI.pdb
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.Core.dll
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\bin\Debug\Patrones.Builder.Core.pdb
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Builder.UI.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Builder.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.Form1.resources
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.Properties.Resources.resources
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Builder.UI.csproj.GenerateResource.cache
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Builder.UI.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Builder.UI.csproj.CopyComplete
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.exe
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.UI\obj\Debug\Patrones.Builder.UI.pdb

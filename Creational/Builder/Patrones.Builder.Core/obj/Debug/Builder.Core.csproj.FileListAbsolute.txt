@@ -1,0 +1,6 @@
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.Core\bin\Debug\Patrones.Builder.Core.dll
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.Core\bin\Debug\Patrones.Builder.Core.pdb
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.Core\obj\Debug\Builder.Core.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.Core\obj\Debug\Builder.Core.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.Core\obj\Debug\Patrones.Builder.Core.dll
+C:\Users\marco\Documents\NET\patterns\Creational\Builder\Patrones.Builder.Core\obj\Debug\Patrones.Builder.Core.pdb
